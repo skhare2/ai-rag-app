@@ -1,0 +1,17 @@
+# Environment & Virtual Environment
+.env
+venv/
+
+# Vector Database & Uploaded PDFs
+db/
+docs/
+policies/
+
+# Python Cache
+__pycache__/
+
+# Unwanted Test Scripts & Extra Files
+1_ingestion_pipeline.py
+2_retrieval_pipeline.py
+3_history_aware_generation.py
+4_recursive_text_splitter.py
