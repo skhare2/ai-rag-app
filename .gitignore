@@ -2,10 +2,10 @@
 .env
 venv/
 
-# Vector Database & Uploaded PDFs
+# Vector Database 
 db/
 docs/
-policies/
+
 
 # Python Cache
 __pycache__/
